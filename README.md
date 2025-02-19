@@ -1,5 +1,3 @@
-# Excel_Atliq_Reports
-
 # AtliQ-Reports
 
 # Project Objectives
