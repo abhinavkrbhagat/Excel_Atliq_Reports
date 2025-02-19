@@ -12,10 +12,7 @@ Create a detailed analysis of customer performance over the years, highlighting 
 
 Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
 ## Finance Report
-#### 1.Profit and Loss (P&L) Reports by Fiscal Year and Months:
-
-Generate Profit and Loss reports categorized by fiscal year and months to evaluate financial performance over different time frames.
-#### 2.Profit and Loss (P&L) Reports by Markets:
+#### 1.Profit and Loss (P&L) Reports by Markets:
 
 Create Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous periods.
 # Lessons Learned
